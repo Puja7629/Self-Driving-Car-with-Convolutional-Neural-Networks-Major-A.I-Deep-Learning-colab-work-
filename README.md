@@ -20,5 +20,5 @@ Used Nvidia Model Architecture to Train Model. Implemented Image Augmentation Te
 Start up the [Udacity self-driving simulator], choose a scene and press the Autonomous Mode button. Then, run the model as follows:
 python drive.py
 
-# #Dataset
+## Dataset
 I have created my own dataset using udacity simulator self driving car training mode and  then after that I have trained my model on that dataset

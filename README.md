@@ -1,4 +1,7 @@
 # Self-Driving-Car-with-Convolutional-Neural-Networks-Major-A.I-Deep-Learning-colab-work-
+## Demo
+![](https://github.com/Puja7629/Self_Driving_Car_With_Convolutional_Neural_Networks_Major_A.I_Deep_Learning_Colab_Work/blob/master/Puja.SDC.gif)
+## Description
 Used Nvidia Model Architecture to Train Model. Implemented Image Augmentation Technique to Avoid Problem of lack of The Data. To Implement Model Architecture Used Keras. Used Matplotlib, Numpy and Pandas for Data analysis and Visualization.
 
 ## Dependencies
@@ -22,6 +25,5 @@ python drive.py
 
 ## Dataset
 I have created my own dataset using udacity simulator self driving car training mode and  then after that I have trained my model on that dataset
-## Demo
-![](https://github.com/Puja7629/Self_Driving_Car_With_Convolutional_Neural_Networks_Major_A.I_Deep_Learning_Colab_Work/blob/master/Puja.SDC.gif)
+
 
